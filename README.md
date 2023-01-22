@@ -139,4 +139,5 @@ Output should look like this:
     Click -> Commit changes to main
 
 2. Test
-    1) In your browser - within Hugging Face Spaces, follow the steps from the sample video
+    1) In your browser - within Hugging Face Spaces, app GUI should be available now to test. Select sample image and submit to get prediction.
+    Or use upload/drag files option and submit to get prediction
