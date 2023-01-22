@@ -58,7 +58,7 @@ Other models for consideration:
 
  
 ## Deployment to cloud - Hugging Face Spaces
-- For testing, this model is currently deployed to - https://huggingface.co/spaces/ranga4all/gradio-pneumonia-classification-app
+- For testing, this model is currently deployed to - https://huggingface.co/spaces/ranga4all/pneumonia-classification-app
 
 - Note: This deployment may be teared down after couple of weeks
 
