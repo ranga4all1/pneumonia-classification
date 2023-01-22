@@ -1,0 +1,9 @@
+numpy==1.21.6
+pandas==1.4.2
+matplotlib==3.5.2
+matplotlib-inline==0.1.6
+seaborn==0.12.2
+scikit-learn==1.2.0
+tensorflow==2.9.1
+opencv-contrib-python-headless==4.7.0.68
+mlnotify==1.0.51
