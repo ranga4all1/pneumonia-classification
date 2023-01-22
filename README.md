@@ -69,12 +69,10 @@ Other models for consideration:
 3. `notebook.ipynb` - dataset download, data cleaning, preprocessing, EDA, model selection and parameter tuning. This file also includes final model training, saving, loading and inference(prediction) testing
 4. `train.py` - script for training and saving final model
 5. `test-model.ipynb` - testing TF model
-6. `test-model.py` - script for testing TF model
- 
+6. `test-model.py` - script for testing TF model 
 7. `gradio-pneumonia-classification-app/requirements.txt` - Hugging Face Spaces dependency file
 8. `gradio-pneumonia-classification-app/app.py` - gradio app for deploying to Hugging Face Spaces
-9. `gradio-pneumonia-classification-app/README.md` - Hugging Face Spaces README file
-10. `gradio-pneumonia-classification-app/*.jpeg` - sample example files for interence on Hugging Face Spaces deployment
+9. `gradio-pneumonia-classification-app/*.jpeg` - sample example files for interence on Hugging Face Spaces deployment
 
 ## How to run this project?
 
