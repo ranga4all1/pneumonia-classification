@@ -113,7 +113,7 @@ python test-model.py
 ```
 Output should look like this:
 ```
-{'NORMAL': 1.0, 'PNEUMONIA': 0.0}
+{'NORMAL': 0.0, 'PNEUMONIA': 1.0}
 ```
 
 ### Deploy to cloud - Hugging Face Spaces
