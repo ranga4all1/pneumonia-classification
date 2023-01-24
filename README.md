@@ -62,6 +62,8 @@ Other models for consideration:
 
 - Note: This deployment may be teared down after couple of weeks
 
+[screen-capture.webm](https://user-images.githubusercontent.com/80430945/214222948-2efad2ac-0686-43f2-b692-1019a53881b8.webm)
+
 
 ## Files included in this repo
 1. `README.md` - readme file with description of the problem and instructions on how to run the project
